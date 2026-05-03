@@ -2,7 +2,7 @@
 An interactive Power BI dashboard designed to analyze employee compensation structures. This project utilizes a small dataset to visualize salary distributions across various departments and individual salary.
 
 ### Tools used
-Excel, Power BI
+Microsoft Excel and Power BI
 
 ### Data used
 [Small Dataset.xlsx](https://github.com/user-attachments/files/27318331/Small.Dataset.xlsx)
